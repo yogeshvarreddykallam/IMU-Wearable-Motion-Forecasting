@@ -7,8 +7,7 @@ End-to-end IoT sensor data processing and machine learning pipeline. Covers data
 |---|---|
 |  | Final notebook — complete pipeline |
 |  | Dec 12 version — near-final iteration |
-|  …  | Development iterations |
-|  | Project presentation slides |
+
 
 ## Pipeline
 1. Data ingestion and parsing from IoT sensors
